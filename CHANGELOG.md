@@ -1,5 +1,12 @@
 # 🪵 Changelog
 
+## [1.2.6](https://github.com/acsetter/release-harmonizer/compare/v1.2.5...v1.2.6) (2023-08-27)
+
+
+### Bug Fixes
+
+* converted releaserc to yml file ([25aa617](https://github.com/acsetter/release-harmonizer/commit/25aa617dcf8749f6b3c177f889cd8d59aa9b40d2))
+
 ## [1.2.5](https://github.com/acsetter/release-harmonizer/compare/v1.2.4...v1.2.5) (2023-08-27)
 
 
