@@ -1,0 +1,18 @@
+branches:
+  - name: releases/v1
+    range: 1.x.x
+  - name: releases/v2
+    range: 2.x.x
+  - name: main
+
+dryRun: false # whether semantic release should publish or not
+
+plugins:
+  - '@semanic-release/commit-analyzer'
+  - '@semanic-release/release-notes-generator'
+  -
+    - '@semantic-release/changelog'
+    - changelogFile: CHANGELOG.md
+    - changelogTitle: '# 🪵 Changelog'
+  - '@semantic-release/git'
+  - '@semantic-release/github'
