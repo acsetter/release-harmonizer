@@ -8,8 +8,8 @@ branches:
 dryRun: false # whether semantic release should publish or not
 
 plugins:
-  - '@semanic-release/commit-analyzer'
-  - '@semanic-release/release-notes-generator'
+  - '@semantic-release/commit-analyzer'
+  - '@semantic-release/release-notes-generator'
   -
     - '@semantic-release/changelog'
     - changelogFile: CHANGELOG.md
