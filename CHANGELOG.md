@@ -1,5 +1,12 @@
 # 🪵 Changelog
 
+## [1.2.7](https://github.com/acsetter/release-harmonizer/compare/v1.2.6...v1.2.7) (2023-09-26)
+
+
+### Bug Fixes
+
+* add debug to semantic release ([1619c9c](https://github.com/acsetter/release-harmonizer/commit/1619c9ceff69bd140a2cb29c435b771c3ff55420))
+
 ## [1.2.6](https://github.com/acsetter/release-harmonizer/compare/v1.2.5...v1.2.6) (2023-08-27)
 
 
